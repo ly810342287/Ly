@@ -1,0 +1,3963 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="8346" width="578.5">
+  <style>
+  .crnsvgvalue {
+      text-anchor: end;
+      stroke: black;
+      fill: black;
+      stroke-width: 0;
+      font-family: Verdana, Arial, sans-serif;
+      font-size: 15px;
+  }
+  .crnsvgrate {
+      text-anchor: middle;
+      stroke: black;
+      fill: black;
+      stroke-width: 0;
+      font-family: Verdana, Arial, sans-serif;
+      font-size: 15px;
+  }
+  path.crnsvgrate { stroke-width: 2; fill: none; stroke-linejoin: round }
+  .crnsvgplus { text-anchor: start }
+  .crnsvgspeciestext { text-anchor: start }
+  </style>
+  <g>
+  <g transform="translate(30,8282)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_y'" d="M 1.25,25
+         L 49.25,25" />
+<text class="svgdsd dom_y'"  x="25.25" y="17" transform="rotate(0 25.25,17)">y'</text>
+  <path class="svgdsd dom_t" d="M 49.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_t"  x="65.25" y="17" transform="rotate(0 65.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,8218)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_y" d="M 1.25,25
+         L 41.25,25" />
+<text class="svgdsd dom_y"  x="21.25" y="17" transform="rotate(0 21.25,17)">y</text>
+  <path class="svgdsd dom_t" d="M 41.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_t"  x="57.25" y="17" transform="rotate(0 57.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,8130)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_y" d="M 127.25,25
+         L 167.25,25
+         L 160.25,21" />
+<text class="svgdsd dom_y"  x="147.25" y="17" transform="rotate(0 147.25,17)">y</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 33.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="17.249" y="49.499" transform="rotate(0 17.249,49.499)">t*</text>
+  <path class="svgdsd dom_y" d="M 167.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_y"  x="147.249" y="49.5" transform="rotate(0 147.249,49.5)">y*</text>
+  <path class="svgdsd dom_t" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_t"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">t*</text>
+  <path class="svgdsd dom_y'" d="M 81.25,33
+         L 33.25,33" />
+<text class="svgdsd dom_y'"  x="57.249" y="49.5" transform="rotate(0 57.249,49.5)">y'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_y'" d="M 33.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_y'"  x="57.25" y="17" transform="rotate(0 57.25,17)">y'</text>
+  <path class="svgdsd dom_t" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_t"  x="97.25" y="17" transform="rotate(0 97.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,8042)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_y'" d="M 119.25,25
+         L 167.25,25
+         L 160.25,21" />
+<text class="svgdsd dom_y'"  x="143.25" y="17" transform="rotate(0 143.25,17)">y'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 33.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="17.249" y="49.499" transform="rotate(0 17.249,49.499)">t*</text>
+  <path class="svgdsd dom_y'" d="M 167.25,33
+         L 112.25,33" />
+<text class="svgdsd dom_y'"  x="143.249" y="49.5" transform="rotate(0 143.249,49.5)">y'*</text>
+  <path class="svgdsd dom_t" d="M 112.25,33
+         L 73.25,33" />
+<text class="svgdsd dom_t"  x="89.249" y="49.5" transform="rotate(0 89.249,49.5)">t*</text>
+  <path class="svgdsd dom_y" d="M 73.25,33
+         L 33.25,33" />
+<text class="svgdsd dom_y"  x="53.249" y="49.5" transform="rotate(0 53.249,49.5)">y*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_y" d="M 33.25,25
+         L 73.25,25" />
+<text class="svgdsd dom_y"  x="53.25" y="17" transform="rotate(0 53.25,17)">y</text>
+  <path class="svgdsd dom_t" d="M 73.25,25
+         L 105.25,25
+         L 98.25,21" />
+<text class="svgdsd dom_t"  x="89.25" y="17" transform="rotate(0 89.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,7978)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_e'" d="M 1.25,25
+         L 49.25,25" />
+<text class="svgdsd dom_e'"  x="25.25" y="17" transform="rotate(0 25.25,17)">e'</text>
+  <path class="svgdsd dom_t" d="M 49.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_t"  x="65.25" y="17" transform="rotate(0 65.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,7914)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_e" d="M 1.25,25
+         L 41.25,25" />
+<text class="svgdsd dom_e"  x="21.25" y="17" transform="rotate(0 21.25,17)">e</text>
+  <path class="svgdsd dom_t" d="M 41.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_t"  x="57.25" y="17" transform="rotate(0 57.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,7826)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_e" d="M 127.25,25
+         L 167.25,25
+         L 160.25,21" />
+<text class="svgdsd dom_e"  x="147.25" y="17" transform="rotate(0 147.25,17)">e</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 33.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="17.249" y="49.499" transform="rotate(0 17.249,49.499)">t*</text>
+  <path class="svgdsd dom_e" d="M 167.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_e"  x="147.249" y="49.5" transform="rotate(0 147.249,49.5)">e*</text>
+  <path class="svgdsd dom_t" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_t"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">t*</text>
+  <path class="svgdsd dom_e'" d="M 81.25,33
+         L 33.25,33" />
+<text class="svgdsd dom_e'"  x="57.249" y="49.5" transform="rotate(0 57.249,49.5)">e'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_e'" d="M 33.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_e'"  x="57.25" y="17" transform="rotate(0 57.25,17)">e'</text>
+  <path class="svgdsd dom_t" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_t"  x="97.25" y="17" transform="rotate(0 97.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,7738)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_e'" d="M 119.25,25
+         L 167.25,25
+         L 160.25,21" />
+<text class="svgdsd dom_e'"  x="143.25" y="17" transform="rotate(0 143.25,17)">e'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 33.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="17.249" y="49.499" transform="rotate(0 17.249,49.499)">t*</text>
+  <path class="svgdsd dom_e'" d="M 167.25,33
+         L 112.25,33" />
+<text class="svgdsd dom_e'"  x="143.249" y="49.5" transform="rotate(0 143.249,49.5)">e'*</text>
+  <path class="svgdsd dom_t" d="M 112.25,33
+         L 73.25,33" />
+<text class="svgdsd dom_t"  x="89.249" y="49.5" transform="rotate(0 89.249,49.5)">t*</text>
+  <path class="svgdsd dom_e" d="M 73.25,33
+         L 33.25,33" />
+<text class="svgdsd dom_e"  x="53.249" y="49.5" transform="rotate(0 53.249,49.5)">e*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_e" d="M 33.25,25
+         L 73.25,25" />
+<text class="svgdsd dom_e"  x="53.25" y="17" transform="rotate(0 53.25,17)">e</text>
+  <path class="svgdsd dom_t" d="M 73.25,25
+         L 105.25,25
+         L 98.25,21" />
+<text class="svgdsd dom_t"  x="89.25" y="17" transform="rotate(0 89.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,7674)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_v'" d="M 1.25,25
+         L 49.25,25" />
+<text class="svgdsd dom_v'"  x="25.25" y="17" transform="rotate(0 25.25,17)">v'</text>
+  <path class="svgdsd dom_t" d="M 49.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_t"  x="65.25" y="17" transform="rotate(0 65.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,7610)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_v" d="M 1.25,25
+         L 41.25,25" />
+<text class="svgdsd dom_v"  x="21.25" y="17" transform="rotate(0 21.25,17)">v</text>
+  <path class="svgdsd dom_t" d="M 41.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_t"  x="57.25" y="17" transform="rotate(0 57.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,7522)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_v" d="M 127.25,25
+         L 167.25,25
+         L 160.25,21" />
+<text class="svgdsd dom_v"  x="147.25" y="17" transform="rotate(0 147.25,17)">v</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 33.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="17.249" y="49.499" transform="rotate(0 17.249,49.499)">t*</text>
+  <path class="svgdsd dom_v" d="M 167.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_v"  x="147.249" y="49.5" transform="rotate(0 147.249,49.5)">v*</text>
+  <path class="svgdsd dom_t" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_t"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">t*</text>
+  <path class="svgdsd dom_v'" d="M 81.25,33
+         L 33.25,33" />
+<text class="svgdsd dom_v'"  x="57.249" y="49.5" transform="rotate(0 57.249,49.5)">v'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_v'" d="M 33.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_v'"  x="57.25" y="17" transform="rotate(0 57.25,17)">v'</text>
+  <path class="svgdsd dom_t" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_t"  x="97.25" y="17" transform="rotate(0 97.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,7434)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_v'" d="M 119.25,25
+         L 167.25,25
+         L 160.25,21" />
+<text class="svgdsd dom_v'"  x="143.25" y="17" transform="rotate(0 143.25,17)">v'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 33.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="17.249" y="49.499" transform="rotate(0 17.249,49.499)">t*</text>
+  <path class="svgdsd dom_v'" d="M 167.25,33
+         L 112.25,33" />
+<text class="svgdsd dom_v'"  x="143.249" y="49.5" transform="rotate(0 143.249,49.5)">v'*</text>
+  <path class="svgdsd dom_t" d="M 112.25,33
+         L 73.25,33" />
+<text class="svgdsd dom_t"  x="89.249" y="49.5" transform="rotate(0 89.249,49.5)">t*</text>
+  <path class="svgdsd dom_v" d="M 73.25,33
+         L 33.25,33" />
+<text class="svgdsd dom_v"  x="53.249" y="49.5" transform="rotate(0 53.249,49.5)">v*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_v" d="M 33.25,25
+         L 73.25,25" />
+<text class="svgdsd dom_v"  x="53.25" y="17" transform="rotate(0 53.25,17)">v</text>
+  <path class="svgdsd dom_t" d="M 73.25,25
+         L 105.25,25
+         L 98.25,21" />
+<text class="svgdsd dom_t"  x="89.25" y="17" transform="rotate(0 89.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,7370)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_r'" d="M 1.25,25
+         L 49.25,25" />
+<text class="svgdsd dom_r'"  x="25.25" y="17" transform="rotate(0 25.25,17)">r'</text>
+  <path class="svgdsd dom_t" d="M 49.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_t"  x="65.25" y="17" transform="rotate(0 65.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,7306)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_r" d="M 1.25,25
+         L 41.25,25" />
+<text class="svgdsd dom_r"  x="21.25" y="17" transform="rotate(0 21.25,17)">r</text>
+  <path class="svgdsd dom_t" d="M 41.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_t"  x="57.25" y="17" transform="rotate(0 57.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,7218)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_r" d="M 127.25,25
+         L 167.25,25
+         L 160.25,21" />
+<text class="svgdsd dom_r"  x="147.25" y="17" transform="rotate(0 147.25,17)">r</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 33.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="17.249" y="49.499" transform="rotate(0 17.249,49.499)">t*</text>
+  <path class="svgdsd dom_r" d="M 167.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_r"  x="147.249" y="49.5" transform="rotate(0 147.249,49.5)">r*</text>
+  <path class="svgdsd dom_t" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_t"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">t*</text>
+  <path class="svgdsd dom_r'" d="M 81.25,33
+         L 33.25,33" />
+<text class="svgdsd dom_r'"  x="57.249" y="49.5" transform="rotate(0 57.249,49.5)">r'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_r'" d="M 33.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_r'"  x="57.25" y="17" transform="rotate(0 57.25,17)">r'</text>
+  <path class="svgdsd dom_t" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_t"  x="97.25" y="17" transform="rotate(0 97.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,7130)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_r'" d="M 119.25,25
+         L 167.25,25
+         L 160.25,21" />
+<text class="svgdsd dom_r'"  x="143.25" y="17" transform="rotate(0 143.25,17)">r'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 33.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="17.249" y="49.499" transform="rotate(0 17.249,49.499)">t*</text>
+  <path class="svgdsd dom_r'" d="M 167.25,33
+         L 112.25,33" />
+<text class="svgdsd dom_r'"  x="143.249" y="49.5" transform="rotate(0 143.249,49.5)">r'*</text>
+  <path class="svgdsd dom_t" d="M 112.25,33
+         L 73.25,33" />
+<text class="svgdsd dom_t"  x="89.249" y="49.5" transform="rotate(0 89.249,49.5)">t*</text>
+  <path class="svgdsd dom_r" d="M 73.25,33
+         L 33.25,33" />
+<text class="svgdsd dom_r"  x="53.249" y="49.5" transform="rotate(0 53.249,49.5)">r*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_r" d="M 33.25,25
+         L 73.25,25" />
+<text class="svgdsd dom_r"  x="53.25" y="17" transform="rotate(0 53.25,17)">r</text>
+  <path class="svgdsd dom_t" d="M 73.25,25
+         L 105.25,25
+         L 98.25,21" />
+<text class="svgdsd dom_t"  x="89.25" y="17" transform="rotate(0 89.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,7066)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_j'" d="M 1.25,25
+         L 49.25,25" />
+<text class="svgdsd dom_j'"  x="25.25" y="17" transform="rotate(0 25.25,17)">j'</text>
+  <path class="svgdsd dom_t" d="M 49.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_t"  x="65.25" y="17" transform="rotate(0 65.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,7002)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_j" d="M 1.25,25
+         L 41.25,25" />
+<text class="svgdsd dom_j"  x="21.25" y="17" transform="rotate(0 21.25,17)">j</text>
+  <path class="svgdsd dom_t" d="M 41.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_t"  x="57.25" y="17" transform="rotate(0 57.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,6914)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_j" d="M 127.25,25
+         L 167.25,25
+         L 160.25,21" />
+<text class="svgdsd dom_j"  x="147.25" y="17" transform="rotate(0 147.25,17)">j</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 33.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="17.249" y="49.499" transform="rotate(0 17.249,49.499)">t*</text>
+  <path class="svgdsd dom_j" d="M 167.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_j"  x="147.249" y="49.5" transform="rotate(0 147.249,49.5)">j*</text>
+  <path class="svgdsd dom_t" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_t"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">t*</text>
+  <path class="svgdsd dom_j'" d="M 81.25,33
+         L 33.25,33" />
+<text class="svgdsd dom_j'"  x="57.249" y="49.5" transform="rotate(0 57.249,49.5)">j'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_j'" d="M 33.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_j'"  x="57.25" y="17" transform="rotate(0 57.25,17)">j'</text>
+  <path class="svgdsd dom_t" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_t"  x="97.25" y="17" transform="rotate(0 97.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,6826)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_j'" d="M 119.25,25
+         L 167.25,25
+         L 160.25,21" />
+<text class="svgdsd dom_j'"  x="143.25" y="17" transform="rotate(0 143.25,17)">j'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 33.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="17.249" y="49.499" transform="rotate(0 17.249,49.499)">t*</text>
+  <path class="svgdsd dom_j'" d="M 167.25,33
+         L 112.25,33" />
+<text class="svgdsd dom_j'"  x="143.249" y="49.5" transform="rotate(0 143.249,49.5)">j'*</text>
+  <path class="svgdsd dom_t" d="M 112.25,33
+         L 73.25,33" />
+<text class="svgdsd dom_t"  x="89.249" y="49.5" transform="rotate(0 89.249,49.5)">t*</text>
+  <path class="svgdsd dom_j" d="M 73.25,33
+         L 33.25,33" />
+<text class="svgdsd dom_j"  x="53.249" y="49.5" transform="rotate(0 53.249,49.5)">j*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_j" d="M 33.25,25
+         L 73.25,25" />
+<text class="svgdsd dom_j"  x="53.25" y="17" transform="rotate(0 53.25,17)">j</text>
+  <path class="svgdsd dom_t" d="M 73.25,25
+         L 105.25,25
+         L 98.25,21" />
+<text class="svgdsd dom_t"  x="89.25" y="17" transform="rotate(0 89.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,6762)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_m'" d="M 1.25,25
+         L 49.25,25" />
+<text class="svgdsd dom_m'"  x="25.25" y="17" transform="rotate(0 25.25,17)">m'</text>
+  <path class="svgdsd dom_t" d="M 49.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_t"  x="65.25" y="17" transform="rotate(0 65.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,6698)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_m" d="M 1.25,25
+         L 41.25,25" />
+<text class="svgdsd dom_m"  x="21.25" y="17" transform="rotate(0 21.25,17)">m</text>
+  <path class="svgdsd dom_t" d="M 41.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_t"  x="57.25" y="17" transform="rotate(0 57.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,6610)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_m" d="M 127.25,25
+         L 167.25,25
+         L 160.25,21" />
+<text class="svgdsd dom_m"  x="147.25" y="17" transform="rotate(0 147.25,17)">m</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 33.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="17.249" y="49.499" transform="rotate(0 17.249,49.499)">t*</text>
+  <path class="svgdsd dom_m" d="M 167.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_m"  x="147.249" y="49.5" transform="rotate(0 147.249,49.5)">m*</text>
+  <path class="svgdsd dom_t" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_t"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">t*</text>
+  <path class="svgdsd dom_m'" d="M 81.25,33
+         L 33.25,33" />
+<text class="svgdsd dom_m'"  x="57.249" y="49.5" transform="rotate(0 57.249,49.5)">m'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_m'" d="M 33.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_m'"  x="57.25" y="17" transform="rotate(0 57.25,17)">m'</text>
+  <path class="svgdsd dom_t" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_t"  x="97.25" y="17" transform="rotate(0 97.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,6522)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_m'" d="M 119.25,25
+         L 167.25,25
+         L 160.25,21" />
+<text class="svgdsd dom_m'"  x="143.25" y="17" transform="rotate(0 143.25,17)">m'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 33.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="17.249" y="49.499" transform="rotate(0 17.249,49.499)">t*</text>
+  <path class="svgdsd dom_m'" d="M 167.25,33
+         L 112.25,33" />
+<text class="svgdsd dom_m'"  x="143.249" y="49.5" transform="rotate(0 143.249,49.5)">m'*</text>
+  <path class="svgdsd dom_t" d="M 112.25,33
+         L 73.25,33" />
+<text class="svgdsd dom_t"  x="89.249" y="49.5" transform="rotate(0 89.249,49.5)">t*</text>
+  <path class="svgdsd dom_m" d="M 73.25,33
+         L 33.25,33" />
+<text class="svgdsd dom_m"  x="53.249" y="49.5" transform="rotate(0 53.249,49.5)">m*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_m" d="M 33.25,25
+         L 73.25,25" />
+<text class="svgdsd dom_m"  x="53.25" y="17" transform="rotate(0 53.25,17)">m</text>
+  <path class="svgdsd dom_t" d="M 73.25,25
+         L 105.25,25
+         L 98.25,21" />
+<text class="svgdsd dom_t"  x="89.25" y="17" transform="rotate(0 89.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,6458)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_x'" d="M 1.25,25
+         L 49.25,25" />
+<text class="svgdsd dom_x'"  x="25.25" y="17" transform="rotate(0 25.25,17)">x'</text>
+  <path class="svgdsd dom_t" d="M 49.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_t"  x="65.25" y="17" transform="rotate(0 65.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,6394)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_x" d="M 1.25,25
+         L 41.25,25" />
+<text class="svgdsd dom_x"  x="21.25" y="17" transform="rotate(0 21.25,17)">x</text>
+  <path class="svgdsd dom_t" d="M 41.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_t"  x="57.25" y="17" transform="rotate(0 57.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,6306)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_x" d="M 127.25,25
+         L 167.25,25
+         L 160.25,21" />
+<text class="svgdsd dom_x"  x="147.25" y="17" transform="rotate(0 147.25,17)">x</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 33.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="17.249" y="49.499" transform="rotate(0 17.249,49.499)">t*</text>
+  <path class="svgdsd dom_x" d="M 167.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_x"  x="147.249" y="49.5" transform="rotate(0 147.249,49.5)">x*</text>
+  <path class="svgdsd dom_t" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_t"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">t*</text>
+  <path class="svgdsd dom_x'" d="M 81.25,33
+         L 33.25,33" />
+<text class="svgdsd dom_x'"  x="57.249" y="49.5" transform="rotate(0 57.249,49.5)">x'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_x'" d="M 33.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_x'"  x="57.25" y="17" transform="rotate(0 57.25,17)">x'</text>
+  <path class="svgdsd dom_t" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_t"  x="97.25" y="17" transform="rotate(0 97.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,6218)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_x'" d="M 119.25,25
+         L 167.25,25
+         L 160.25,21" />
+<text class="svgdsd dom_x'"  x="143.25" y="17" transform="rotate(0 143.25,17)">x'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 33.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="17.249" y="49.499" transform="rotate(0 17.249,49.499)">t*</text>
+  <path class="svgdsd dom_x'" d="M 167.25,33
+         L 112.25,33" />
+<text class="svgdsd dom_x'"  x="143.249" y="49.5" transform="rotate(0 143.249,49.5)">x'*</text>
+  <path class="svgdsd dom_t" d="M 112.25,33
+         L 73.25,33" />
+<text class="svgdsd dom_t"  x="89.249" y="49.5" transform="rotate(0 89.249,49.5)">t*</text>
+  <path class="svgdsd dom_x" d="M 73.25,33
+         L 33.25,33" />
+<text class="svgdsd dom_x"  x="53.249" y="49.5" transform="rotate(0 53.249,49.5)">x*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_x" d="M 33.25,25
+         L 73.25,25" />
+<text class="svgdsd dom_x"  x="53.25" y="17" transform="rotate(0 53.25,17)">x</text>
+  <path class="svgdsd dom_t" d="M 73.25,25
+         L 105.25,25
+         L 98.25,21" />
+<text class="svgdsd dom_t"  x="89.25" y="17" transform="rotate(0 89.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,6130)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="160.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_d" d="M 87.25,25
+         L 127.25,25
+         L 120.25,21" />
+<text class="svgdsd dom_d"  x="107.25" y="17" transform="rotate(0 107.25,17)">d</text>
+</g>
+  <g>
+  <path class="svgdsd dom_d" d="M 127.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_d"  x="107.249" y="49.5" transform="rotate(0 107.249,49.5)">d*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 159.25,33
+         L 127.25,33" />
+<text class="svgdsd dom_u"  x="143.249" y="49.5" transform="rotate(0 143.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,6042)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="254.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 213.25,25
+         L 253.25,25
+         L 246.25,21" />
+<text class="svgdsd dom_i"  x="233.25" y="17" transform="rotate(0 233.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 253.25,33
+         L 206.25,33" />
+<text class="svgdsd dom_i"  x="233.249" y="49.5" transform="rotate(0 233.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 206.25,33
+         L 167.25,33" />
+<text class="svgdsd dom_u"  x="183.249" y="49.5" transform="rotate(0 183.249,49.5)">u*</text>
+  <path class="svgdsd dom_j" d="M 167.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_j"  x="147.249" y="49.5" transform="rotate(0 147.249,49.5)">j*</text>
+  <path class="svgdsd dom_u" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_u"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">u*</text>
+  <path class="svgdsd dom_d" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_d"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">d*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_j" d="M 127.25,25
+         L 167.25,25" />
+<text class="svgdsd dom_j"  x="147.25" y="17" transform="rotate(0 147.25,17)">j</text>
+  <path class="svgdsd dom_u" d="M 167.25,25
+         L 199.25,25
+         L 192.25,21" />
+<text class="svgdsd dom_u"  x="183.25" y="17" transform="rotate(0 183.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_d" d="M 41.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_d"  x="61.25" y="17" transform="rotate(0 61.25,17)">d</text>
+  <path class="svgdsd dom_u" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_u"  x="97.25" y="17" transform="rotate(0 97.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,5954)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="254.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 213.25,25
+         L 253.25,25
+         L 246.25,21" />
+<text class="svgdsd dom_i"  x="233.25" y="17" transform="rotate(0 233.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 253.25,33
+         L 206.25,33" />
+<text class="svgdsd dom_i"  x="233.249" y="49.5" transform="rotate(0 233.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 206.25,33
+         L 167.25,33" />
+<text class="svgdsd dom_u"  x="183.249" y="49.5" transform="rotate(0 183.249,49.5)">u*</text>
+  <path class="svgdsd dom_j" d="M 167.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_j"  x="147.249" y="49.5" transform="rotate(0 147.249,49.5)">j*</text>
+  <path class="svgdsd dom_u" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_u"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">u*</text>
+  <path class="svgdsd dom_x" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_x"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">x*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_j" d="M 127.25,25
+         L 167.25,25" />
+<text class="svgdsd dom_j"  x="147.25" y="17" transform="rotate(0 147.25,17)">j</text>
+  <path class="svgdsd dom_u" d="M 167.25,25
+         L 199.25,25
+         L 192.25,21" />
+<text class="svgdsd dom_u"  x="183.25" y="17" transform="rotate(0 183.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_x" d="M 41.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_x"  x="61.25" y="17" transform="rotate(0 61.25,17)">x</text>
+  <path class="svgdsd dom_u" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_u"  x="97.25" y="17" transform="rotate(0 97.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.37)</text>
+</g>
+</g>
+  <g transform="translate(30,5866)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="254.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 213.25,25
+         L 253.25,25
+         L 246.25,21" />
+<text class="svgdsd dom_i"  x="233.25" y="17" transform="rotate(0 233.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 253.25,33
+         L 206.25,33" />
+<text class="svgdsd dom_i"  x="233.249" y="49.5" transform="rotate(0 233.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 206.25,33
+         L 167.25,33" />
+<text class="svgdsd dom_u"  x="183.249" y="49.5" transform="rotate(0 183.249,49.5)">u*</text>
+  <path class="svgdsd dom_j" d="M 167.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_j"  x="147.249" y="49.5" transform="rotate(0 147.249,49.5)">j*</text>
+  <path class="svgdsd dom_u" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_u"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">u*</text>
+  <path class="svgdsd dom_n" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_n"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">n*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_j" d="M 127.25,25
+         L 167.25,25" />
+<text class="svgdsd dom_j"  x="147.25" y="17" transform="rotate(0 147.25,17)">j</text>
+  <path class="svgdsd dom_u" d="M 167.25,25
+         L 199.25,25
+         L 192.25,21" />
+<text class="svgdsd dom_u"  x="183.25" y="17" transform="rotate(0 183.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_n" d="M 41.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_n"  x="61.25" y="17" transform="rotate(0 61.25,17)">n</text>
+  <path class="svgdsd dom_u" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_u"  x="97.25" y="17" transform="rotate(0 97.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.37)</text>
+</g>
+</g>
+  <g transform="translate(30,5802)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_u" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_u"  x="17.25" y="17" transform="rotate(0 17.25,17)">u</text>
+  <path class="svgdsd dom_m" d="M 33.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_m"  x="53.25" y="17" transform="rotate(0 53.25,17)">m</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,5714)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="254.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 213.25,25
+         L 253.25,25
+         L 246.25,21" />
+<text class="svgdsd dom_i"  x="233.25" y="17" transform="rotate(0 233.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 253.25,33
+         L 206.25,33" />
+<text class="svgdsd dom_i"  x="233.249" y="49.5" transform="rotate(0 233.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 206.25,33
+         L 167.25,33" />
+<text class="svgdsd dom_u"  x="183.249" y="49.5" transform="rotate(0 183.249,49.5)">u*</text>
+  <path class="svgdsd dom_m" d="M 167.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_m"  x="147.249" y="49.5" transform="rotate(0 147.249,49.5)">m*</text>
+  <path class="svgdsd dom_u" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_u"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">u*</text>
+  <path class="svgdsd dom_n" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_n"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">n*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_m" d="M 127.25,25
+         L 167.25,25" />
+<text class="svgdsd dom_m"  x="147.25" y="17" transform="rotate(0 147.25,17)">m</text>
+  <path class="svgdsd dom_u" d="M 167.25,25
+         L 199.25,25
+         L 192.25,21" />
+<text class="svgdsd dom_u"  x="183.25" y="17" transform="rotate(0 183.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_n" d="M 41.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_n"  x="61.25" y="17" transform="rotate(0 61.25,17)">n</text>
+  <path class="svgdsd dom_u" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_u"  x="97.25" y="17" transform="rotate(0 97.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,5650)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_u" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_u"  x="17.25" y="17" transform="rotate(0 17.25,17)">u</text>
+  <path class="svgdsd dom_x" d="M 33.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_x"  x="53.25" y="17" transform="rotate(0 53.25,17)">x</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,5562)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="160.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_x" d="M 87.25,25
+         L 127.25,25
+         L 120.25,21" />
+<text class="svgdsd dom_x"  x="107.25" y="17" transform="rotate(0 107.25,17)">x</text>
+</g>
+  <g>
+  <path class="svgdsd dom_x" d="M 127.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_x"  x="107.249" y="49.5" transform="rotate(0 107.249,49.5)">x*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 159.25,33
+         L 127.25,33" />
+<text class="svgdsd dom_u"  x="143.249" y="49.5" transform="rotate(0 143.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(1.37 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,5474)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="254.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 213.25,25
+         L 253.25,25
+         L 246.25,21" />
+<text class="svgdsd dom_i"  x="233.25" y="17" transform="rotate(0 233.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 253.25,33
+         L 206.25,33" />
+<text class="svgdsd dom_i"  x="233.249" y="49.5" transform="rotate(0 233.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 206.25,33
+         L 167.25,33" />
+<text class="svgdsd dom_u"  x="183.249" y="49.5" transform="rotate(0 183.249,49.5)">u*</text>
+  <path class="svgdsd dom_x" d="M 167.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_x"  x="147.249" y="49.5" transform="rotate(0 147.249,49.5)">x*</text>
+  <path class="svgdsd dom_u" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_u"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">u*</text>
+  <path class="svgdsd dom_n" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_n"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">n*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_x" d="M 127.25,25
+         L 167.25,25" />
+<text class="svgdsd dom_x"  x="147.25" y="17" transform="rotate(0 147.25,17)">x</text>
+  <path class="svgdsd dom_u" d="M 167.25,25
+         L 199.25,25
+         L 192.25,21" />
+<text class="svgdsd dom_u"  x="183.25" y="17" transform="rotate(0 183.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_n" d="M 41.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_n"  x="61.25" y="17" transform="rotate(0 61.25,17)">n</text>
+  <path class="svgdsd dom_u" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_u"  x="97.25" y="17" transform="rotate(0 97.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,5410)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_u" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_u"  x="17.25" y="17" transform="rotate(0 17.25,17)">u</text>
+  <path class="svgdsd dom_n" d="M 33.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_n"  x="53.25" y="17" transform="rotate(0 53.25,17)">n</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.5)</text>
+</g>
+</g>
+  <g transform="translate(30,5322)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="160.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_n" d="M 87.25,25
+         L 127.25,25
+         L 120.25,21" />
+<text class="svgdsd dom_n"  x="107.25" y="17" transform="rotate(0 107.25,17)">n</text>
+</g>
+  <g>
+  <path class="svgdsd dom_n" d="M 127.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_n"  x="107.249" y="49.5" transform="rotate(0 107.249,49.5)">n*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 159.25,33
+         L 127.25,33" />
+<text class="svgdsd dom_u"  x="143.249" y="49.5" transform="rotate(0 143.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2.87 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,5234)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="254.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 213.25,25
+         L 253.25,25
+         L 246.25,21" />
+<text class="svgdsd dom_i"  x="233.25" y="17" transform="rotate(0 233.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 253.25,33
+         L 206.25,33" />
+<text class="svgdsd dom_i"  x="233.249" y="49.5" transform="rotate(0 233.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 206.25,33
+         L 167.25,33" />
+<text class="svgdsd dom_u"  x="183.249" y="49.5" transform="rotate(0 183.249,49.5)">u*</text>
+  <path class="svgdsd dom_n" d="M 167.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_n"  x="147.249" y="49.5" transform="rotate(0 147.249,49.5)">n*</text>
+  <path class="svgdsd dom_u" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_u"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">u*</text>
+  <path class="svgdsd dom_e" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_e"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">e*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_n" d="M 127.25,25
+         L 167.25,25" />
+<text class="svgdsd dom_n"  x="147.25" y="17" transform="rotate(0 147.25,17)">n</text>
+  <path class="svgdsd dom_u" d="M 167.25,25
+         L 199.25,25
+         L 192.25,21" />
+<text class="svgdsd dom_u"  x="183.25" y="17" transform="rotate(0 183.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_e" d="M 41.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_e"  x="61.25" y="17" transform="rotate(0 61.25,17)">e</text>
+  <path class="svgdsd dom_u" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_u"  x="97.25" y="17" transform="rotate(0 97.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.5)</text>
+</g>
+</g>
+  <g transform="translate(30,5146)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="254.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 213.25,25
+         L 253.25,25
+         L 246.25,21" />
+<text class="svgdsd dom_i"  x="233.25" y="17" transform="rotate(0 233.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 253.25,33
+         L 206.25,33" />
+<text class="svgdsd dom_i"  x="233.249" y="49.5" transform="rotate(0 233.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 206.25,33
+         L 167.25,33" />
+<text class="svgdsd dom_u"  x="183.249" y="49.5" transform="rotate(0 183.249,49.5)">u*</text>
+  <path class="svgdsd dom_e" d="M 167.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_e"  x="147.249" y="49.5" transform="rotate(0 147.249,49.5)">e*</text>
+  <path class="svgdsd dom_u" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_u"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">u*</text>
+  <path class="svgdsd dom_v" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_v"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">v*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_e" d="M 127.25,25
+         L 167.25,25" />
+<text class="svgdsd dom_e"  x="147.25" y="17" transform="rotate(0 147.25,17)">e</text>
+  <path class="svgdsd dom_u" d="M 167.25,25
+         L 199.25,25
+         L 192.25,21" />
+<text class="svgdsd dom_u"  x="183.25" y="17" transform="rotate(0 183.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_v" d="M 41.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_v"  x="61.25" y="17" transform="rotate(0 61.25,17)">v</text>
+  <path class="svgdsd dom_u" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_u"  x="97.25" y="17" transform="rotate(0 97.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,5058)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="254.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 213.25,25
+         L 253.25,25
+         L 246.25,21" />
+<text class="svgdsd dom_i"  x="233.25" y="17" transform="rotate(0 233.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 253.25,33
+         L 206.25,33" />
+<text class="svgdsd dom_i"  x="233.249" y="49.5" transform="rotate(0 233.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 206.25,33
+         L 167.25,33" />
+<text class="svgdsd dom_u"  x="183.249" y="49.5" transform="rotate(0 183.249,49.5)">u*</text>
+  <path class="svgdsd dom_v" d="M 167.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_v"  x="147.249" y="49.5" transform="rotate(0 147.249,49.5)">v*</text>
+  <path class="svgdsd dom_u" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_u"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">u*</text>
+  <path class="svgdsd dom_h" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_h"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">h*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_v" d="M 127.25,25
+         L 167.25,25" />
+<text class="svgdsd dom_v"  x="147.25" y="17" transform="rotate(0 147.25,17)">v</text>
+  <path class="svgdsd dom_u" d="M 167.25,25
+         L 199.25,25
+         L 192.25,21" />
+<text class="svgdsd dom_u"  x="183.25" y="17" transform="rotate(0 183.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_h" d="M 41.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_h"  x="61.25" y="17" transform="rotate(0 61.25,17)">h</text>
+  <path class="svgdsd dom_u" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_u"  x="97.25" y="17" transform="rotate(0 97.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.89)</text>
+</g>
+</g>
+  <g transform="translate(30,4994)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_u" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_u"  x="17.25" y="17" transform="rotate(0 17.25,17)">u</text>
+  <path class="svgdsd dom_v" d="M 33.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_v"  x="53.25" y="17" transform="rotate(0 53.25,17)">v</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(1.59 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,4906)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="160.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_v" d="M 87.25,25
+         L 127.25,25
+         L 120.25,21" />
+<text class="svgdsd dom_v"  x="107.25" y="17" transform="rotate(0 107.25,17)">v</text>
+</g>
+  <g>
+  <path class="svgdsd dom_v" d="M 127.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_v"  x="107.249" y="49.5" transform="rotate(0 107.249,49.5)">v*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 159.25,33
+         L 127.25,33" />
+<text class="svgdsd dom_u"  x="143.249" y="49.5" transform="rotate(0 143.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2.59 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,4818)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="254.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 213.25,25
+         L 253.25,25
+         L 246.25,21" />
+<text class="svgdsd dom_i"  x="233.25" y="17" transform="rotate(0 233.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 253.25,33
+         L 206.25,33" />
+<text class="svgdsd dom_i"  x="233.249" y="49.5" transform="rotate(0 233.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 206.25,33
+         L 167.25,33" />
+<text class="svgdsd dom_u"  x="183.249" y="49.5" transform="rotate(0 183.249,49.5)">u*</text>
+  <path class="svgdsd dom_v" d="M 167.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_v"  x="147.249" y="49.5" transform="rotate(0 147.249,49.5)">v*</text>
+  <path class="svgdsd dom_u" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_u"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">u*</text>
+  <path class="svgdsd dom_r" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_r"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">r*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_v" d="M 127.25,25
+         L 167.25,25" />
+<text class="svgdsd dom_v"  x="147.25" y="17" transform="rotate(0 147.25,17)">v</text>
+  <path class="svgdsd dom_u" d="M 167.25,25
+         L 199.25,25
+         L 192.25,21" />
+<text class="svgdsd dom_u"  x="183.25" y="17" transform="rotate(0 183.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_r" d="M 41.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_r"  x="61.25" y="17" transform="rotate(0 61.25,17)">r</text>
+  <path class="svgdsd dom_u" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_u"  x="97.25" y="17" transform="rotate(0 97.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.7)</text>
+</g>
+</g>
+  <g transform="translate(30,4754)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_u" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_u"  x="17.25" y="17" transform="rotate(0 17.25,17)">u</text>
+  <path class="svgdsd dom_h" d="M 33.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_h"  x="53.25" y="17" transform="rotate(0 53.25,17)">h</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.7)</text>
+</g>
+</g>
+  <g transform="translate(30,4666)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="160.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_h" d="M 87.25,25
+         L 127.25,25
+         L 120.25,21" />
+<text class="svgdsd dom_h"  x="107.25" y="17" transform="rotate(0 107.25,17)">h</text>
+</g>
+  <g>
+  <path class="svgdsd dom_h" d="M 127.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_h"  x="107.249" y="49.5" transform="rotate(0 107.249,49.5)">h*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 159.25,33
+         L 127.25,33" />
+<text class="svgdsd dom_u"  x="143.249" y="49.5" transform="rotate(0 143.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(1.59 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,4578)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="160.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_r" d="M 87.25,25
+         L 127.25,25
+         L 120.25,21" />
+<text class="svgdsd dom_r"  x="107.25" y="17" transform="rotate(0 107.25,17)">r</text>
+</g>
+  <g>
+  <path class="svgdsd dom_r" d="M 127.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_r"  x="107.249" y="49.5" transform="rotate(0 107.249,49.5)">r*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 159.25,33
+         L 127.25,33" />
+<text class="svgdsd dom_u"  x="143.249" y="49.5" transform="rotate(0 143.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(1.4 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,4490)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="254.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 213.25,25
+         L 253.25,25
+         L 246.25,21" />
+<text class="svgdsd dom_i"  x="233.25" y="17" transform="rotate(0 233.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 253.25,33
+         L 206.25,33" />
+<text class="svgdsd dom_i"  x="233.249" y="49.5" transform="rotate(0 233.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 206.25,33
+         L 167.25,33" />
+<text class="svgdsd dom_u"  x="183.249" y="49.5" transform="rotate(0 183.249,49.5)">u*</text>
+  <path class="svgdsd dom_h" d="M 167.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_h"  x="147.249" y="49.5" transform="rotate(0 147.249,49.5)">h*</text>
+  <path class="svgdsd dom_u" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_u"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">u*</text>
+  <path class="svgdsd dom_r" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_r"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">r*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_h" d="M 127.25,25
+         L 167.25,25" />
+<text class="svgdsd dom_h"  x="147.25" y="17" transform="rotate(0 147.25,17)">h</text>
+  <path class="svgdsd dom_u" d="M 167.25,25
+         L 199.25,25
+         L 192.25,21" />
+<text class="svgdsd dom_u"  x="183.25" y="17" transform="rotate(0 183.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_r" d="M 41.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_r"  x="61.25" y="17" transform="rotate(0 61.25,17)">r</text>
+  <path class="svgdsd dom_u" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_u"  x="97.25" y="17" transform="rotate(0 97.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.7)</text>
+</g>
+</g>
+  <g transform="translate(30,4402)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_d'" d="M 87.25,25
+         L 135.25,25
+         L 128.25,21" />
+<text class="svgdsd dom_d'"  x="111.25" y="17" transform="rotate(0 111.25,17)">d'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_d'" d="M 135.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_d'"  x="111.249" y="49.5" transform="rotate(0 111.249,49.5)">d'*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 167.25,33
+         L 135.25,33" />
+<text class="svgdsd dom_u"  x="151.249" y="49.5" transform="rotate(0 151.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,4314)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="270.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 229.25,25
+         L 269.25,25
+         L 262.25,21" />
+<text class="svgdsd dom_i"  x="249.25" y="17" transform="rotate(0 249.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 269.25,33
+         L 222.25,33" />
+<text class="svgdsd dom_i"  x="249.249" y="49.5" transform="rotate(0 249.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 222.25,33
+         L 183.25,33" />
+<text class="svgdsd dom_u"  x="199.249" y="49.5" transform="rotate(0 199.249,49.5)">u*</text>
+  <path class="svgdsd dom_j'" d="M 183.25,33
+         L 128.25,33" />
+<text class="svgdsd dom_j'"  x="159.249" y="49.5" transform="rotate(0 159.249,49.5)">j'*</text>
+  <path class="svgdsd dom_u" d="M 128.25,33
+         L 89.25,33" />
+<text class="svgdsd dom_u"  x="105.249" y="49.5" transform="rotate(0 105.249,49.5)">u*</text>
+  <path class="svgdsd dom_d'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_d'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">d'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_j'" d="M 135.25,25
+         L 183.25,25" />
+<text class="svgdsd dom_j'"  x="159.25" y="17" transform="rotate(0 159.25,17)">j'</text>
+  <path class="svgdsd dom_u" d="M 183.25,25
+         L 215.25,25
+         L 208.25,21" />
+<text class="svgdsd dom_u"  x="199.25" y="17" transform="rotate(0 199.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_d'" d="M 41.25,25
+         L 89.25,25" />
+<text class="svgdsd dom_d'"  x="65.25" y="17" transform="rotate(0 65.25,17)">d'</text>
+  <path class="svgdsd dom_u" d="M 89.25,25
+         L 121.25,25
+         L 114.25,21" />
+<text class="svgdsd dom_u"  x="105.25" y="17" transform="rotate(0 105.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,4226)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="270.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 229.25,25
+         L 269.25,25
+         L 262.25,21" />
+<text class="svgdsd dom_i"  x="249.25" y="17" transform="rotate(0 249.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 269.25,33
+         L 222.25,33" />
+<text class="svgdsd dom_i"  x="249.249" y="49.5" transform="rotate(0 249.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 222.25,33
+         L 183.25,33" />
+<text class="svgdsd dom_u"  x="199.249" y="49.5" transform="rotate(0 199.249,49.5)">u*</text>
+  <path class="svgdsd dom_j'" d="M 183.25,33
+         L 128.25,33" />
+<text class="svgdsd dom_j'"  x="159.249" y="49.5" transform="rotate(0 159.249,49.5)">j'*</text>
+  <path class="svgdsd dom_u" d="M 128.25,33
+         L 89.25,33" />
+<text class="svgdsd dom_u"  x="105.249" y="49.5" transform="rotate(0 105.249,49.5)">u*</text>
+  <path class="svgdsd dom_x'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_x'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">x'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_j'" d="M 135.25,25
+         L 183.25,25" />
+<text class="svgdsd dom_j'"  x="159.25" y="17" transform="rotate(0 159.25,17)">j'</text>
+  <path class="svgdsd dom_u" d="M 183.25,25
+         L 215.25,25
+         L 208.25,21" />
+<text class="svgdsd dom_u"  x="199.25" y="17" transform="rotate(0 199.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_x'" d="M 41.25,25
+         L 89.25,25" />
+<text class="svgdsd dom_x'"  x="65.25" y="17" transform="rotate(0 65.25,17)">x'</text>
+  <path class="svgdsd dom_u" d="M 89.25,25
+         L 121.25,25
+         L 114.25,21" />
+<text class="svgdsd dom_u"  x="105.25" y="17" transform="rotate(0 105.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.37)</text>
+</g>
+</g>
+  <g transform="translate(30,4138)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="270.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 229.25,25
+         L 269.25,25
+         L 262.25,21" />
+<text class="svgdsd dom_i"  x="249.25" y="17" transform="rotate(0 249.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 269.25,33
+         L 222.25,33" />
+<text class="svgdsd dom_i"  x="249.249" y="49.5" transform="rotate(0 249.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 222.25,33
+         L 183.25,33" />
+<text class="svgdsd dom_u"  x="199.249" y="49.5" transform="rotate(0 199.249,49.5)">u*</text>
+  <path class="svgdsd dom_j'" d="M 183.25,33
+         L 128.25,33" />
+<text class="svgdsd dom_j'"  x="159.249" y="49.5" transform="rotate(0 159.249,49.5)">j'*</text>
+  <path class="svgdsd dom_u" d="M 128.25,33
+         L 89.25,33" />
+<text class="svgdsd dom_u"  x="105.249" y="49.5" transform="rotate(0 105.249,49.5)">u*</text>
+  <path class="svgdsd dom_n'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_n'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">n'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_j'" d="M 135.25,25
+         L 183.25,25" />
+<text class="svgdsd dom_j'"  x="159.25" y="17" transform="rotate(0 159.25,17)">j'</text>
+  <path class="svgdsd dom_u" d="M 183.25,25
+         L 215.25,25
+         L 208.25,21" />
+<text class="svgdsd dom_u"  x="199.25" y="17" transform="rotate(0 199.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_n'" d="M 41.25,25
+         L 89.25,25" />
+<text class="svgdsd dom_n'"  x="65.25" y="17" transform="rotate(0 65.25,17)">n'</text>
+  <path class="svgdsd dom_u" d="M 89.25,25
+         L 121.25,25
+         L 114.25,21" />
+<text class="svgdsd dom_u"  x="105.25" y="17" transform="rotate(0 105.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.37)</text>
+</g>
+</g>
+  <g transform="translate(30,4074)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_u" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_u"  x="17.25" y="17" transform="rotate(0 17.25,17)">u</text>
+  <path class="svgdsd dom_m'" d="M 33.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_m'"  x="57.25" y="17" transform="rotate(0 57.25,17)">m'</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,3986)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="270.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 229.25,25
+         L 269.25,25
+         L 262.25,21" />
+<text class="svgdsd dom_i"  x="249.25" y="17" transform="rotate(0 249.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 269.25,33
+         L 222.25,33" />
+<text class="svgdsd dom_i"  x="249.249" y="49.5" transform="rotate(0 249.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 222.25,33
+         L 183.25,33" />
+<text class="svgdsd dom_u"  x="199.249" y="49.5" transform="rotate(0 199.249,49.5)">u*</text>
+  <path class="svgdsd dom_m'" d="M 183.25,33
+         L 128.25,33" />
+<text class="svgdsd dom_m'"  x="159.249" y="49.5" transform="rotate(0 159.249,49.5)">m'*</text>
+  <path class="svgdsd dom_u" d="M 128.25,33
+         L 89.25,33" />
+<text class="svgdsd dom_u"  x="105.249" y="49.5" transform="rotate(0 105.249,49.5)">u*</text>
+  <path class="svgdsd dom_n'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_n'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">n'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_m'" d="M 135.25,25
+         L 183.25,25" />
+<text class="svgdsd dom_m'"  x="159.25" y="17" transform="rotate(0 159.25,17)">m'</text>
+  <path class="svgdsd dom_u" d="M 183.25,25
+         L 215.25,25
+         L 208.25,21" />
+<text class="svgdsd dom_u"  x="199.25" y="17" transform="rotate(0 199.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_n'" d="M 41.25,25
+         L 89.25,25" />
+<text class="svgdsd dom_n'"  x="65.25" y="17" transform="rotate(0 65.25,17)">n'</text>
+  <path class="svgdsd dom_u" d="M 89.25,25
+         L 121.25,25
+         L 114.25,21" />
+<text class="svgdsd dom_u"  x="105.25" y="17" transform="rotate(0 105.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,3922)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_u" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_u"  x="17.25" y="17" transform="rotate(0 17.25,17)">u</text>
+  <path class="svgdsd dom_x'" d="M 33.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_x'"  x="57.25" y="17" transform="rotate(0 57.25,17)">x'</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,3834)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_x'" d="M 87.25,25
+         L 135.25,25
+         L 128.25,21" />
+<text class="svgdsd dom_x'"  x="111.25" y="17" transform="rotate(0 111.25,17)">x'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_x'" d="M 135.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_x'"  x="111.249" y="49.5" transform="rotate(0 111.249,49.5)">x'*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 167.25,33
+         L 135.25,33" />
+<text class="svgdsd dom_u"  x="151.249" y="49.5" transform="rotate(0 151.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(1.37 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,3746)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="270.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 229.25,25
+         L 269.25,25
+         L 262.25,21" />
+<text class="svgdsd dom_i"  x="249.25" y="17" transform="rotate(0 249.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 269.25,33
+         L 222.25,33" />
+<text class="svgdsd dom_i"  x="249.249" y="49.5" transform="rotate(0 249.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 222.25,33
+         L 183.25,33" />
+<text class="svgdsd dom_u"  x="199.249" y="49.5" transform="rotate(0 199.249,49.5)">u*</text>
+  <path class="svgdsd dom_x'" d="M 183.25,33
+         L 128.25,33" />
+<text class="svgdsd dom_x'"  x="159.249" y="49.5" transform="rotate(0 159.249,49.5)">x'*</text>
+  <path class="svgdsd dom_u" d="M 128.25,33
+         L 89.25,33" />
+<text class="svgdsd dom_u"  x="105.249" y="49.5" transform="rotate(0 105.249,49.5)">u*</text>
+  <path class="svgdsd dom_n'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_n'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">n'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_x'" d="M 135.25,25
+         L 183.25,25" />
+<text class="svgdsd dom_x'"  x="159.25" y="17" transform="rotate(0 159.25,17)">x'</text>
+  <path class="svgdsd dom_u" d="M 183.25,25
+         L 215.25,25
+         L 208.25,21" />
+<text class="svgdsd dom_u"  x="199.25" y="17" transform="rotate(0 199.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_n'" d="M 41.25,25
+         L 89.25,25" />
+<text class="svgdsd dom_n'"  x="65.25" y="17" transform="rotate(0 65.25,17)">n'</text>
+  <path class="svgdsd dom_u" d="M 89.25,25
+         L 121.25,25
+         L 114.25,21" />
+<text class="svgdsd dom_u"  x="105.25" y="17" transform="rotate(0 105.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,3682)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_u" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_u"  x="17.25" y="17" transform="rotate(0 17.25,17)">u</text>
+  <path class="svgdsd dom_n'" d="M 33.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_n'"  x="57.25" y="17" transform="rotate(0 57.25,17)">n'</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.5)</text>
+</g>
+</g>
+  <g transform="translate(30,3594)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_n'" d="M 87.25,25
+         L 135.25,25
+         L 128.25,21" />
+<text class="svgdsd dom_n'"  x="111.25" y="17" transform="rotate(0 111.25,17)">n'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_n'" d="M 135.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_n'"  x="111.249" y="49.5" transform="rotate(0 111.249,49.5)">n'*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 167.25,33
+         L 135.25,33" />
+<text class="svgdsd dom_u"  x="151.249" y="49.5" transform="rotate(0 151.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2.87 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,3506)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="270.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 229.25,25
+         L 269.25,25
+         L 262.25,21" />
+<text class="svgdsd dom_i"  x="249.25" y="17" transform="rotate(0 249.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 269.25,33
+         L 222.25,33" />
+<text class="svgdsd dom_i"  x="249.249" y="49.5" transform="rotate(0 249.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 222.25,33
+         L 183.25,33" />
+<text class="svgdsd dom_u"  x="199.249" y="49.5" transform="rotate(0 199.249,49.5)">u*</text>
+  <path class="svgdsd dom_n'" d="M 183.25,33
+         L 128.25,33" />
+<text class="svgdsd dom_n'"  x="159.249" y="49.5" transform="rotate(0 159.249,49.5)">n'*</text>
+  <path class="svgdsd dom_u" d="M 128.25,33
+         L 89.25,33" />
+<text class="svgdsd dom_u"  x="105.249" y="49.5" transform="rotate(0 105.249,49.5)">u*</text>
+  <path class="svgdsd dom_e'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_e'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">e'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_n'" d="M 135.25,25
+         L 183.25,25" />
+<text class="svgdsd dom_n'"  x="159.25" y="17" transform="rotate(0 159.25,17)">n'</text>
+  <path class="svgdsd dom_u" d="M 183.25,25
+         L 215.25,25
+         L 208.25,21" />
+<text class="svgdsd dom_u"  x="199.25" y="17" transform="rotate(0 199.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_e'" d="M 41.25,25
+         L 89.25,25" />
+<text class="svgdsd dom_e'"  x="65.25" y="17" transform="rotate(0 65.25,17)">e'</text>
+  <path class="svgdsd dom_u" d="M 89.25,25
+         L 121.25,25
+         L 114.25,21" />
+<text class="svgdsd dom_u"  x="105.25" y="17" transform="rotate(0 105.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.5)</text>
+</g>
+</g>
+  <g transform="translate(30,3418)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="270.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 229.25,25
+         L 269.25,25
+         L 262.25,21" />
+<text class="svgdsd dom_i"  x="249.25" y="17" transform="rotate(0 249.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 269.25,33
+         L 222.25,33" />
+<text class="svgdsd dom_i"  x="249.249" y="49.5" transform="rotate(0 249.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 222.25,33
+         L 183.25,33" />
+<text class="svgdsd dom_u"  x="199.249" y="49.5" transform="rotate(0 199.249,49.5)">u*</text>
+  <path class="svgdsd dom_e'" d="M 183.25,33
+         L 128.25,33" />
+<text class="svgdsd dom_e'"  x="159.249" y="49.5" transform="rotate(0 159.249,49.5)">e'*</text>
+  <path class="svgdsd dom_u" d="M 128.25,33
+         L 89.25,33" />
+<text class="svgdsd dom_u"  x="105.249" y="49.5" transform="rotate(0 105.249,49.5)">u*</text>
+  <path class="svgdsd dom_v'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_v'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">v'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_e'" d="M 135.25,25
+         L 183.25,25" />
+<text class="svgdsd dom_e'"  x="159.25" y="17" transform="rotate(0 159.25,17)">e'</text>
+  <path class="svgdsd dom_u" d="M 183.25,25
+         L 215.25,25
+         L 208.25,21" />
+<text class="svgdsd dom_u"  x="199.25" y="17" transform="rotate(0 199.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_v'" d="M 41.25,25
+         L 89.25,25" />
+<text class="svgdsd dom_v'"  x="65.25" y="17" transform="rotate(0 65.25,17)">v'</text>
+  <path class="svgdsd dom_u" d="M 89.25,25
+         L 121.25,25
+         L 114.25,21" />
+<text class="svgdsd dom_u"  x="105.25" y="17" transform="rotate(0 105.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,3330)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="270.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 229.25,25
+         L 269.25,25
+         L 262.25,21" />
+<text class="svgdsd dom_i"  x="249.25" y="17" transform="rotate(0 249.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 269.25,33
+         L 222.25,33" />
+<text class="svgdsd dom_i"  x="249.249" y="49.5" transform="rotate(0 249.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 222.25,33
+         L 183.25,33" />
+<text class="svgdsd dom_u"  x="199.249" y="49.5" transform="rotate(0 199.249,49.5)">u*</text>
+  <path class="svgdsd dom_v'" d="M 183.25,33
+         L 128.25,33" />
+<text class="svgdsd dom_v'"  x="159.249" y="49.5" transform="rotate(0 159.249,49.5)">v'*</text>
+  <path class="svgdsd dom_u" d="M 128.25,33
+         L 89.25,33" />
+<text class="svgdsd dom_u"  x="105.249" y="49.5" transform="rotate(0 105.249,49.5)">u*</text>
+  <path class="svgdsd dom_h'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_h'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">h'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_v'" d="M 135.25,25
+         L 183.25,25" />
+<text class="svgdsd dom_v'"  x="159.25" y="17" transform="rotate(0 159.25,17)">v'</text>
+  <path class="svgdsd dom_u" d="M 183.25,25
+         L 215.25,25
+         L 208.25,21" />
+<text class="svgdsd dom_u"  x="199.25" y="17" transform="rotate(0 199.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_h'" d="M 41.25,25
+         L 89.25,25" />
+<text class="svgdsd dom_h'"  x="65.25" y="17" transform="rotate(0 65.25,17)">h'</text>
+  <path class="svgdsd dom_u" d="M 89.25,25
+         L 121.25,25
+         L 114.25,21" />
+<text class="svgdsd dom_u"  x="105.25" y="17" transform="rotate(0 105.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.89)</text>
+</g>
+</g>
+  <g transform="translate(30,3266)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_u" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_u"  x="17.25" y="17" transform="rotate(0 17.25,17)">u</text>
+  <path class="svgdsd dom_v'" d="M 33.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_v'"  x="57.25" y="17" transform="rotate(0 57.25,17)">v'</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(1.59 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,3178)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_v'" d="M 87.25,25
+         L 135.25,25
+         L 128.25,21" />
+<text class="svgdsd dom_v'"  x="111.25" y="17" transform="rotate(0 111.25,17)">v'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_v'" d="M 135.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_v'"  x="111.249" y="49.5" transform="rotate(0 111.249,49.5)">v'*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 167.25,33
+         L 135.25,33" />
+<text class="svgdsd dom_u"  x="151.249" y="49.5" transform="rotate(0 151.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2.59 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,3090)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="270.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 229.25,25
+         L 269.25,25
+         L 262.25,21" />
+<text class="svgdsd dom_i"  x="249.25" y="17" transform="rotate(0 249.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 269.25,33
+         L 222.25,33" />
+<text class="svgdsd dom_i"  x="249.249" y="49.5" transform="rotate(0 249.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 222.25,33
+         L 183.25,33" />
+<text class="svgdsd dom_u"  x="199.249" y="49.5" transform="rotate(0 199.249,49.5)">u*</text>
+  <path class="svgdsd dom_v'" d="M 183.25,33
+         L 128.25,33" />
+<text class="svgdsd dom_v'"  x="159.249" y="49.5" transform="rotate(0 159.249,49.5)">v'*</text>
+  <path class="svgdsd dom_u" d="M 128.25,33
+         L 89.25,33" />
+<text class="svgdsd dom_u"  x="105.249" y="49.5" transform="rotate(0 105.249,49.5)">u*</text>
+  <path class="svgdsd dom_r'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_r'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">r'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_v'" d="M 135.25,25
+         L 183.25,25" />
+<text class="svgdsd dom_v'"  x="159.25" y="17" transform="rotate(0 159.25,17)">v'</text>
+  <path class="svgdsd dom_u" d="M 183.25,25
+         L 215.25,25
+         L 208.25,21" />
+<text class="svgdsd dom_u"  x="199.25" y="17" transform="rotate(0 199.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_r'" d="M 41.25,25
+         L 89.25,25" />
+<text class="svgdsd dom_r'"  x="65.25" y="17" transform="rotate(0 65.25,17)">r'</text>
+  <path class="svgdsd dom_u" d="M 89.25,25
+         L 121.25,25
+         L 114.25,21" />
+<text class="svgdsd dom_u"  x="105.25" y="17" transform="rotate(0 105.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.7)</text>
+</g>
+</g>
+  <g transform="translate(30,3026)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_u" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_u"  x="17.25" y="17" transform="rotate(0 17.25,17)">u</text>
+  <path class="svgdsd dom_h'" d="M 33.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_h'"  x="57.25" y="17" transform="rotate(0 57.25,17)">h'</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.7)</text>
+</g>
+</g>
+  <g transform="translate(30,2938)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_h'" d="M 87.25,25
+         L 135.25,25
+         L 128.25,21" />
+<text class="svgdsd dom_h'"  x="111.25" y="17" transform="rotate(0 111.25,17)">h'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_h'" d="M 135.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_h'"  x="111.249" y="49.5" transform="rotate(0 111.249,49.5)">h'*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 167.25,33
+         L 135.25,33" />
+<text class="svgdsd dom_u"  x="151.249" y="49.5" transform="rotate(0 151.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(1.59 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,2850)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_r'" d="M 87.25,25
+         L 135.25,25
+         L 128.25,21" />
+<text class="svgdsd dom_r'"  x="111.25" y="17" transform="rotate(0 111.25,17)">r'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_r'" d="M 135.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_r'"  x="111.249" y="49.5" transform="rotate(0 111.249,49.5)">r'*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 167.25,33
+         L 135.25,33" />
+<text class="svgdsd dom_u"  x="151.249" y="49.5" transform="rotate(0 151.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(1.4 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,2762)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="270.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 229.25,25
+         L 269.25,25
+         L 262.25,21" />
+<text class="svgdsd dom_i"  x="249.25" y="17" transform="rotate(0 249.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 269.25,33
+         L 222.25,33" />
+<text class="svgdsd dom_i"  x="249.249" y="49.5" transform="rotate(0 249.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 222.25,33
+         L 183.25,33" />
+<text class="svgdsd dom_u"  x="199.249" y="49.5" transform="rotate(0 199.249,49.5)">u*</text>
+  <path class="svgdsd dom_h'" d="M 183.25,33
+         L 128.25,33" />
+<text class="svgdsd dom_h'"  x="159.249" y="49.5" transform="rotate(0 159.249,49.5)">h'*</text>
+  <path class="svgdsd dom_u" d="M 128.25,33
+         L 89.25,33" />
+<text class="svgdsd dom_u"  x="105.249" y="49.5" transform="rotate(0 105.249,49.5)">u*</text>
+  <path class="svgdsd dom_r'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_r'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">r'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_h'" d="M 135.25,25
+         L 183.25,25" />
+<text class="svgdsd dom_h'"  x="159.25" y="17" transform="rotate(0 159.25,17)">h'</text>
+  <path class="svgdsd dom_u" d="M 183.25,25
+         L 215.25,25
+         L 208.25,21" />
+<text class="svgdsd dom_u"  x="199.25" y="17" transform="rotate(0 199.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_r'" d="M 41.25,25
+         L 89.25,25" />
+<text class="svgdsd dom_r'"  x="65.25" y="17" transform="rotate(0 65.25,17)">r'</text>
+  <path class="svgdsd dom_u" d="M 89.25,25
+         L 121.25,25
+         L 114.25,21" />
+<text class="svgdsd dom_u"  x="105.25" y="17" transform="rotate(0 105.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.7)</text>
+</g>
+</g>
+  <g transform="translate(30,2698)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_u" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_u"  x="17.25" y="17" transform="rotate(0 17.25,17)">u</text>
+  <path class="svgdsd dom_j'" d="M 33.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_j'"  x="57.25" y="17" transform="rotate(0 57.25,17)">j'</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2.11 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,2610)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_j'" d="M 87.25,25
+         L 135.25,25
+         L 128.25,21" />
+<text class="svgdsd dom_j'"  x="111.25" y="17" transform="rotate(0 111.25,17)">j'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_j'" d="M 135.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_j'"  x="111.249" y="49.5" transform="rotate(0 111.249,49.5)">j'*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 167.25,33
+         L 135.25,33" />
+<text class="svgdsd dom_u"  x="151.249" y="49.5" transform="rotate(0 151.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2.11 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,2522)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="160.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_m" d="M 87.25,25
+         L 127.25,25
+         L 120.25,21" />
+<text class="svgdsd dom_m"  x="107.25" y="17" transform="rotate(0 107.25,17)">m</text>
+</g>
+  <g>
+  <path class="svgdsd dom_m" d="M 127.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_m"  x="107.249" y="49.5" transform="rotate(0 107.249,49.5)">m*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 159.25,33
+         L 127.25,33" />
+<text class="svgdsd dom_u"  x="143.249" y="49.5" transform="rotate(0 143.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(1.37 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,2434)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="262.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 221.25,25
+         L 261.25,25
+         L 254.25,21" />
+<text class="svgdsd dom_i"  x="241.25" y="17" transform="rotate(0 241.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 261.25,33
+         L 214.25,33" />
+<text class="svgdsd dom_i"  x="241.249" y="49.5" transform="rotate(0 241.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 214.25,33
+         L 175.25,33" />
+<text class="svgdsd dom_u"  x="191.249" y="49.5" transform="rotate(0 191.249,49.5)">u*</text>
+  <path class="svgdsd dom_j'" d="M 175.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_j'"  x="151.249" y="49.5" transform="rotate(0 151.249,49.5)">j'*</text>
+  <path class="svgdsd dom_u" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_u"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">u*</text>
+  <path class="svgdsd dom_m" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_m"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">m*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_j'" d="M 127.25,25
+         L 175.25,25" />
+<text class="svgdsd dom_j'"  x="151.25" y="17" transform="rotate(0 151.25,17)">j'</text>
+  <path class="svgdsd dom_u" d="M 175.25,25
+         L 207.25,25
+         L 200.25,21" />
+<text class="svgdsd dom_u"  x="191.25" y="17" transform="rotate(0 191.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_m" d="M 41.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_m"  x="61.25" y="17" transform="rotate(0 61.25,17)">m</text>
+  <path class="svgdsd dom_u" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_u"  x="97.25" y="17" transform="rotate(0 97.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.37)</text>
+</g>
+</g>
+  <g transform="translate(30,2370)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_u" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_u"  x="17.25" y="17" transform="rotate(0 17.25,17)">u</text>
+  <path class="svgdsd dom_e'" d="M 33.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_e'"  x="57.25" y="17" transform="rotate(0 57.25,17)">e'</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,2282)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_e'" d="M 87.25,25
+         L 135.25,25
+         L 128.25,21" />
+<text class="svgdsd dom_e'"  x="111.25" y="17" transform="rotate(0 111.25,17)">e'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_e'" d="M 135.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_e'"  x="111.249" y="49.5" transform="rotate(0 111.249,49.5)">e'*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 167.25,33
+         L 135.25,33" />
+<text class="svgdsd dom_u"  x="151.249" y="49.5" transform="rotate(0 151.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2.5 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,2194)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="160.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_y" d="M 87.25,25
+         L 127.25,25
+         L 120.25,21" />
+<text class="svgdsd dom_y"  x="107.25" y="17" transform="rotate(0 107.25,17)">y</text>
+</g>
+  <g>
+  <path class="svgdsd dom_y" d="M 127.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_y"  x="107.249" y="49.5" transform="rotate(0 107.249,49.5)">y*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 159.25,33
+         L 127.25,33" />
+<text class="svgdsd dom_u"  x="143.249" y="49.5" transform="rotate(0 143.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,2106)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="262.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 221.25,25
+         L 261.25,25
+         L 254.25,21" />
+<text class="svgdsd dom_i"  x="241.25" y="17" transform="rotate(0 241.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 261.25,33
+         L 214.25,33" />
+<text class="svgdsd dom_i"  x="241.249" y="49.5" transform="rotate(0 241.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 214.25,33
+         L 175.25,33" />
+<text class="svgdsd dom_u"  x="191.249" y="49.5" transform="rotate(0 191.249,49.5)">u*</text>
+  <path class="svgdsd dom_e'" d="M 175.25,33
+         L 120.25,33" />
+<text class="svgdsd dom_e'"  x="151.249" y="49.5" transform="rotate(0 151.249,49.5)">e'*</text>
+  <path class="svgdsd dom_u" d="M 120.25,33
+         L 81.25,33" />
+<text class="svgdsd dom_u"  x="97.249" y="49.5" transform="rotate(0 97.249,49.5)">u*</text>
+  <path class="svgdsd dom_y" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_y"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">y*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_e'" d="M 127.25,25
+         L 175.25,25" />
+<text class="svgdsd dom_e'"  x="151.25" y="17" transform="rotate(0 151.25,17)">e'</text>
+  <path class="svgdsd dom_u" d="M 175.25,25
+         L 207.25,25
+         L 200.25,21" />
+<text class="svgdsd dom_u"  x="191.25" y="17" transform="rotate(0 191.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_y" d="M 41.25,25
+         L 81.25,25" />
+<text class="svgdsd dom_y"  x="61.25" y="17" transform="rotate(0 61.25,17)">y</text>
+  <path class="svgdsd dom_u" d="M 81.25,25
+         L 113.25,25
+         L 106.25,21" />
+<text class="svgdsd dom_u"  x="97.25" y="17" transform="rotate(0 97.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,2042)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_u" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_u"  x="17.25" y="17" transform="rotate(0 17.25,17)">u</text>
+  <path class="svgdsd dom_j" d="M 33.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_j"  x="53.25" y="17" transform="rotate(0 53.25,17)">j</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2.11 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,1954)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="160.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_j" d="M 87.25,25
+         L 127.25,25
+         L 120.25,21" />
+<text class="svgdsd dom_j"  x="107.25" y="17" transform="rotate(0 107.25,17)">j</text>
+</g>
+  <g>
+  <path class="svgdsd dom_j" d="M 127.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_j"  x="107.249" y="49.5" transform="rotate(0 107.249,49.5)">j*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 159.25,33
+         L 127.25,33" />
+<text class="svgdsd dom_u"  x="143.249" y="49.5" transform="rotate(0 143.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2.11 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,1866)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_m'" d="M 87.25,25
+         L 135.25,25
+         L 128.25,21" />
+<text class="svgdsd dom_m'"  x="111.25" y="17" transform="rotate(0 111.25,17)">m'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_m'" d="M 135.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_m'"  x="111.249" y="49.5" transform="rotate(0 111.249,49.5)">m'*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 167.25,33
+         L 135.25,33" />
+<text class="svgdsd dom_u"  x="151.249" y="49.5" transform="rotate(0 151.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(1.37 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,1778)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="262.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 221.25,25
+         L 261.25,25
+         L 254.25,21" />
+<text class="svgdsd dom_i"  x="241.25" y="17" transform="rotate(0 241.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 261.25,33
+         L 214.25,33" />
+<text class="svgdsd dom_i"  x="241.249" y="49.5" transform="rotate(0 241.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 214.25,33
+         L 175.25,33" />
+<text class="svgdsd dom_u"  x="191.249" y="49.5" transform="rotate(0 191.249,49.5)">u*</text>
+  <path class="svgdsd dom_j" d="M 175.25,33
+         L 128.25,33" />
+<text class="svgdsd dom_j"  x="155.249" y="49.5" transform="rotate(0 155.249,49.5)">j*</text>
+  <path class="svgdsd dom_u" d="M 128.25,33
+         L 89.25,33" />
+<text class="svgdsd dom_u"  x="105.249" y="49.5" transform="rotate(0 105.249,49.5)">u*</text>
+  <path class="svgdsd dom_m'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_m'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">m'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_j" d="M 135.25,25
+         L 175.25,25" />
+<text class="svgdsd dom_j"  x="155.25" y="17" transform="rotate(0 155.25,17)">j</text>
+  <path class="svgdsd dom_u" d="M 175.25,25
+         L 207.25,25
+         L 200.25,21" />
+<text class="svgdsd dom_u"  x="191.25" y="17" transform="rotate(0 191.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_m'" d="M 41.25,25
+         L 89.25,25" />
+<text class="svgdsd dom_m'"  x="65.25" y="17" transform="rotate(0 65.25,17)">m'</text>
+  <path class="svgdsd dom_u" d="M 89.25,25
+         L 121.25,25
+         L 114.25,21" />
+<text class="svgdsd dom_u"  x="105.25" y="17" transform="rotate(0 105.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax * 0.37)</text>
+</g>
+</g>
+  <g transform="translate(30,1714)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+  <path class="svgdsd dom_t" d="M 41.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_t"  x="57.25" y="17" transform="rotate(0 57.25,17)">t</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(17.8 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,1650)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_u" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_u"  x="17.25" y="17" transform="rotate(0 17.25,17)">u</text>
+  <path class="svgdsd dom_i" d="M 33.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_i"  x="53.25" y="17" transform="rotate(0 53.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(17.8 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,1586)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_u" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_u"  x="17.25" y="17" transform="rotate(0 17.25,17)">u</text>
+  <path class="svgdsd dom_e" d="M 33.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_e"  x="53.25" y="17" transform="rotate(0 53.25,17)">e</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,1498)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="160.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_e" d="M 87.25,25
+         L 127.25,25
+         L 120.25,21" />
+<text class="svgdsd dom_e"  x="107.25" y="17" transform="rotate(0 107.25,17)">e</text>
+</g>
+  <g>
+  <path class="svgdsd dom_e" d="M 127.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_e"  x="107.249" y="49.5" transform="rotate(0 107.249,49.5)">e*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 159.25,33
+         L 127.25,33" />
+<text class="svgdsd dom_u"  x="143.249" y="49.5" transform="rotate(0 143.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2.5 * Cmax)</text>
+</g>
+</g>
+  <g transform="translate(30,1410)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="168.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 55.25,25
+         L 87.25,25" />
+<text class="svgdsd dom_t"  x="71.25" y="17" transform="rotate(0 71.25,17)">t</text>
+  <path class="svgdsd dom_y'" d="M 87.25,25
+         L 135.25,25
+         L 128.25,21" />
+<text class="svgdsd dom_y'"  x="111.25" y="17" transform="rotate(0 111.25,17)">y'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_y'" d="M 135.25,33
+         L 87.25,33" />
+<text class="svgdsd dom_y'"  x="111.249" y="49.5" transform="rotate(0 111.249,49.5)">y'*</text>
+  <path class="svgdsd dom_t" d="M 87.25,33
+         L 48.25,33" />
+<text class="svgdsd dom_t"  x="71.249" y="49.5" transform="rotate(0 71.249,49.5)">t*</text>
+  <path class="svgdsd dom_i" d="M 48.25,33
+         L 1.25,33
+         L 8.249,37" />
+<text class="svgdsd dom_i"  x="21.249" y="49.5" transform="rotate(0 21.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 167.25,33
+         L 135.25,33" />
+<text class="svgdsd dom_u"  x="151.249" y="49.5" transform="rotate(0 151.249,49.5)">u*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_i" d="M 1.25,25
+         L 41.25,25
+         L 34.25,21" />
+<text class="svgdsd dom_i"  x="21.25" y="17" transform="rotate(0 21.25,17)">i</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,1322)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="262.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_i" d="M 221.25,25
+         L 261.25,25
+         L 254.25,21" />
+<text class="svgdsd dom_i"  x="241.25" y="17" transform="rotate(0 241.25,17)">i</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_i" d="M 261.25,33
+         L 214.25,33" />
+<text class="svgdsd dom_i"  x="241.249" y="49.5" transform="rotate(0 241.249,49.5)">i*</text>
+  <path class="svgdsd dom_u" d="M 214.25,33
+         L 175.25,33" />
+<text class="svgdsd dom_u"  x="191.249" y="49.5" transform="rotate(0 191.249,49.5)">u*</text>
+  <path class="svgdsd dom_e" d="M 175.25,33
+         L 128.25,33" />
+<text class="svgdsd dom_e"  x="155.249" y="49.5" transform="rotate(0 155.249,49.5)">e*</text>
+  <path class="svgdsd dom_u" d="M 128.25,33
+         L 89.25,33" />
+<text class="svgdsd dom_u"  x="105.249" y="49.5" transform="rotate(0 105.249,49.5)">u*</text>
+  <path class="svgdsd dom_y'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_y'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">y'*</text>
+</g>
+  <g>
+  <path class="svgdsd dom_e" d="M 135.25,25
+         L 175.25,25" />
+<text class="svgdsd dom_e"  x="155.25" y="17" transform="rotate(0 155.25,17)">e</text>
+  <path class="svgdsd dom_u" d="M 175.25,25
+         L 207.25,25
+         L 200.25,21" />
+<text class="svgdsd dom_u"  x="191.25" y="17" transform="rotate(0 191.25,17)">u</text>
+</g>
+  <g>
+  <path class="svgdsd dom_y'" d="M 41.25,25
+         L 89.25,25" />
+<text class="svgdsd dom_y'"  x="65.25" y="17" transform="rotate(0 65.25,17)">y'</text>
+  <path class="svgdsd dom_u" d="M 89.25,25
+         L 121.25,25
+         L 114.25,21" />
+<text class="svgdsd dom_u"  x="105.25" y="17" transform="rotate(0 105.25,17)">u</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,1234)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_j" d="M 41.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_j"  x="61.25" y="17" transform="rotate(0 61.25,17)">j</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_j" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_j"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">j*</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,1146)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_m" d="M 41.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_m"  x="61.25" y="17" transform="rotate(0 61.25,17)">m</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_m" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_m"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">m*</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax / 0.37)</text>
+</g>
+</g>
+  <g transform="translate(30,1058)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_n" d="M 41.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_n"  x="61.25" y="17" transform="rotate(0 61.25,17)">n</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_n" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_n"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">n*</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax / 0.5)</text>
+</g>
+</g>
+  <g transform="translate(30,970)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_e" d="M 41.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_e"  x="61.25" y="17" transform="rotate(0 61.25,17)">e</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_e" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_e"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">e*</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,882)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_v" d="M 41.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_v"  x="61.25" y="17" transform="rotate(0 61.25,17)">v</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_v" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_v"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">v*</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax / 0.89)</text>
+</g>
+</g>
+  <g transform="translate(30,794)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_h" d="M 41.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_h"  x="61.25" y="17" transform="rotate(0 61.25,17)">h</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_h" d="M 81.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_h"  x="61.249" y="49.5" transform="rotate(0 61.249,49.5)">h*</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax / 0.7)</text>
+</g>
+</g>
+  <g transform="translate(30,706)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="90.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_j'" d="M 41.25,25
+         L 89.25,25
+         L 82.25,21" />
+<text class="svgdsd dom_j'"  x="65.25" y="17" transform="rotate(0 65.25,17)">j'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_j'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_j'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">j'*</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,618)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="90.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_m'" d="M 41.25,25
+         L 89.25,25
+         L 82.25,21" />
+<text class="svgdsd dom_m'"  x="65.25" y="17" transform="rotate(0 65.25,17)">m'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_m'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_m'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">m'*</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax / 0.37)</text>
+</g>
+</g>
+  <g transform="translate(30,530)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="90.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_n'" d="M 41.25,25
+         L 89.25,25
+         L 82.25,21" />
+<text class="svgdsd dom_n'"  x="65.25" y="17" transform="rotate(0 65.25,17)">n'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_n'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_n'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">n'*</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax / 0.5)</text>
+</g>
+</g>
+  <g transform="translate(30,442)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="90.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_e'" d="M 41.25,25
+         L 89.25,25
+         L 82.25,21" />
+<text class="svgdsd dom_e'"  x="65.25" y="17" transform="rotate(0 65.25,17)">e'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_e'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_e'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">e'*</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">Cmax</text>
+</g>
+</g>
+  <g transform="translate(30,354)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="90.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_v'" d="M 41.25,25
+         L 89.25,25
+         L 82.25,21" />
+<text class="svgdsd dom_v'"  x="65.25" y="17" transform="rotate(0 65.25,17)">v'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_v'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_v'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">v'*</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax / 0.89)</text>
+</g>
+</g>
+  <g transform="translate(30,266)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="58" width="90.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_h'" d="M 41.25,25
+         L 89.25,25
+         L 82.25,21" />
+<text class="svgdsd dom_h'"  x="65.25" y="17" transform="rotate(0 65.25,17)">h'</text>
+</g>
+  <g>
+  <path class="svgdsd dom_t" d="M 41.25,33
+         L 1.25,32.999
+         L 8.249,36.999" />
+<text class="svgdsd dom_t"  x="21.249" y="49.499" transform="rotate(0 21.249,49.499)">t*c</text>
+  <path class="svgdsd dom_h'" d="M 89.25,33
+         L 41.25,33" />
+<text class="svgdsd dom_h'"  x="65.249" y="49.5" transform="rotate(0 65.249,49.5)">h'*</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,28)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(Cmax / 0.7)</text>
+</g>
+</g>
+  <g transform="translate(30,202)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_t"  x="17.25" y="17" transform="rotate(0 17.25,17)">t</text>
+  <path class="svgdsd dom_r" d="M 33.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_r"  x="53.25" y="17" transform="rotate(0 53.25,17)">r</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2 * x0)</text>
+</g>
+</g>
+  <g transform="translate(30,138)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="74.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_t"  x="17.25" y="17" transform="rotate(0 17.25,17)">t</text>
+  <path class="svgdsd dom_r" d="M 33.25,25
+         L 73.25,25
+         L 66.25,21" />
+<text class="svgdsd dom_r"  x="53.25" y="17" transform="rotate(0 53.25,17)">r</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">x0</text>
+</g>
+</g>
+  <g transform="translate(30,74)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_t"  x="17.25" y="17" transform="rotate(0 17.25,17)">t</text>
+  <path class="svgdsd dom_r'" d="M 33.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_r'"  x="57.25" y="17" transform="rotate(0 57.25,17)">r'</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2 * x0)</text>
+</g>
+</g>
+  <g transform="translate(30,10)">
+  <g transform="translate(134,10)">
+  <g xmlns="http://www.w3.org/2000/svg" height="34" width="82.5">
+  <style>g { fill: none; } path.svgdsd { stroke: silver; stroke-width: 2.5; stroke-linejoin: round; } text.svgdsd { fill: black; stroke-width: 0; font-family: Verdana,Arial,sans-serif; font-size: 15px; text-anchor: middle; } text.fixedwidth { font-family:Lucida Console,monospace } path.svgdsd.dom_u { stroke: green } text.svgdsd.dom_u { fill: green } path.svgdsd.dom_t { stroke: red } text.svgdsd.dom_t { fill: red } path.svgdsd.tether-pin { stroke : black }</style>
+  <g>
+  <g>
+  <path class="svgdsd dom_t" d="M 1.25,25
+         L 33.25,25" />
+<text class="svgdsd dom_t"  x="17.25" y="17" transform="rotate(0 17.25,17)">t</text>
+  <path class="svgdsd dom_r'" d="M 33.25,25
+         L 81.25,25
+         L 74.25,21" />
+<text class="svgdsd dom_r'"  x="57.25" y="17" transform="rotate(0 57.25,17)">r'</text>
+</g>
+</g>
+</g>
+</g>
+  <g transform="translate(114,16)">
+  
+<text class="crnsvgvalue"  x="0" y="17" transform="rotate(0 0,17)">(2 * x0)</text>
+</g>
+</g>
+</g>
+</svg>
